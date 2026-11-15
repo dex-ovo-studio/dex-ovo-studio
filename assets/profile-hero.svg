@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="660" viewBox="0 0 1440 660">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07101E"/><stop offset=".6" stop-color="#111F3B"/><stop offset="1" stop-color="#102F4A"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#40CFFF" stop-opacity=".5"/><stop offset="1" stop-color="#327FFF" stop-opacity="0"/></radialGradient>
+<linearGradient id="glass" x2=".8" y2="1"><stop stop-color="#81E7FF" stop-opacity=".7"/><stop offset=".25" stop-color="#243E6F" stop-opacity=".75"/><stop offset="1" stop-color="#081426" stop-opacity=".9"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#E3FCFF"/><stop offset=".5" stop-color="#56BBFF"/><stop offset="1" stop-color="#3D68FF" stop-opacity=".3"/></linearGradient>
+<pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#8CBDEA" stroke-opacity=".07"/></pattern>
+<clipPath id="clip"><rect width="1440" height="660" rx="24"/></clipPath>
+</defs><g clip-path="url(#clip)">
+<rect width="1440" height="660" fill="url(#bg)"/><rect width="1440" height="660" fill="url(#grid)"/>
+<ellipse cx="1140" cy="230" rx="420" ry="440" fill="url(#glow)"/>
+<path d="M850 660L1440 70M960 660L1440 180M1070 660L1440 290" stroke="#72BCF4" stroke-opacity=".14"/>
+<g transform="translate(1080 318)">
+<ellipse rx="300" ry="150" transform="rotate(-28)" fill="none" stroke="#7CCFFF" stroke-opacity=".21"/>
+<ellipse rx="252" ry="122" transform="rotate(-28)" fill="none" stroke="#7CCFFF" stroke-opacity=".12"/>
+<path d="M-140-125L56-220L227-110L31-10Z" fill="url(#glass)" stroke="url(#edge)" stroke-width="2"/>
+<path d="M-140-125L31-10V190L-140 75Z" fill="#0C2545" fill-opacity=".8" stroke="#619DCF" stroke-opacity=".7"/>
+<path d="M31-10L227-110V90L31 190Z" fill="url(#glass)" stroke="url(#edge)" stroke-width="2"/>
+<path d="M-100-65L31 22L187-56M-100-15L31 72L187-6M-100 35L31 122L187 44" fill="none" stroke="#7DBDFF" stroke-opacity=".4"/>
+<path d="M31-10V190M-140-125L31-10L227-110" fill="none" stroke="#B9F4FF" stroke-width="3"/>
+<path d="M-184 132L-4 245L267 111" fill="none" stroke="#4BCAFF" stroke-opacity=".45"/>
+<circle cx="-229" cy="136" r="5" fill="#87EAFF"/><circle cx="244" cy="-131" r="4" fill="#9CDEFF"/>
+</g>
+<rect x="64" y="62" width="7" height="20" rx="3" fill="#81DDFF"/>
+<text x="88" y="79" fill="#9EB6D3" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="22" letter-spacing="3">INDEPENDENT SOFTWARE STUDIO</text>
+<text x="64" y="226" fill="#F3F8FF" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="86" font-weight="700" letter-spacing="-2">D.E.X STUDIO</text>
+<text x="68" y="302" fill="#B4DFFF" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="39" font-weight="500">为日常，构建更好的数字体验。</text>
+<text x="68" y="359" fill="#91A8C5" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="28">Thoughtful software. Built around everyday life.</text>
+<path d="M68 431H160" stroke="#70D9FF" stroke-width="3"/>
+<text x="68" y="491" fill="#DCE8F6" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="25">连接 · 灵感 · 掌控 · 出行</text>
+<text x="68" y="534" fill="#819AB9" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="22" letter-spacing="2">CONNECT / DISCOVER / TUNE / RIDE</text>
+<path d="M64 597H1376" stroke="#9CBFDC" stroke-opacity=".18"/>
+<text x="68" y="634" fill="#758FAB" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="19" letter-spacing="2">DESIGNED WITH INTENT.</text>
+<text x="1373" y="634" text-anchor="end" fill="#758FAB" font-family="Segoe UI,Microsoft YaHei,Arial,sans-serif" font-size="19" letter-spacing="2">SOFTWARE × DESIGN × EXPERIENCE</text>
+</g></svg>
