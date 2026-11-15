@@ -2,10 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/studio-banner.svg" alt="D.E.X Studio — Software, design & experience" width="100%">
 
-### 用清晰的设计，做好日常软件。
-Thoughtful software. Clear experiences.
+## [🟢 从这里开始 → 软件状态与下载](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
-[软件目录 / Software](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status) · [下载与版本 / Downloads](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status#install)
+**[Start here · Software status & downloads](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)**
+
+查看全部软件的当前状态、官方下载和使用指南。  
+Find every app's current status, official downloads and guides.
+
+**Navio · Mystery · Tune · Rovelio**
 
 </div>
 
@@ -18,12 +22,12 @@ D.E.X is the studio identity and creator alias; each app has its own product nam
 
 | 项目 / Project | 用途 / Purpose | 状态 / Status |
 | :--- | :--- | :--- |
-| **[Navio](https://github.com/dex-ovo-studio/Navio)** | Windows 代理管理客户端<br>Windows proxy management | **公开测试 / Public beta** · 1.0.0-beta.7 |
-| **[Mystery](https://github.com/dex-ovo-studio/Mystery)** | 盲盒与抽奖桌面软件<br>Mystery box & lucky draw desktop app | **稳定支持 / Stable support** · 2.1.0 |
-| **[Tune](https://github.com/dex-ovo-studio/DEX-TUNE)** | 随 U 盘携带的 Windows 调试工具<br>Portable Windows tuning toolkit | **内部原型 / Internal prototype** · 0.8 |
-| **[Rovelio · 驭途](https://github.com/dex-ovo-studio/DEX-Rider)** | 面向摩托车的车机与语音交互探索<br>Motorcycle dashboard & voice interaction | **开发原型 / Development prototype** · Rebuild 01 |
+| **[Navio](https://github.com/dex-ovo-studio/Navio)** | Windows 代理管理客户端<br>Windows proxy management | 🟢 **公开测试 / Public beta** · 1.0.0-beta.7 |
+| **[Mystery](https://github.com/dex-ovo-studio/Mystery)** | 盲盒与抽奖桌面软件<br>Mystery box & lucky draw desktop app | 🔵 **稳定支持 / Stable support** · 2.1.0 |
+| **[Tune](https://github.com/dex-ovo-studio/DEX-TUNE)** | 随 U 盘携带的 Windows 调试工具<br>Portable Windows tuning toolkit | 🟠 **内部原型 / Internal prototype** · 0.8 |
+| **[Rovelio · 驭途](https://github.com/dex-ovo-studio/DEX-Rider)** | 面向摩托车的车机与语音交互探索<br>Motorcycle dashboard & voice interaction | 🟠 **开发原型 / Development prototype** · Rebuild 01 |
 
-## 从这里开始 · Start here
+## 快捷入口 · Quick links
 
 **下载软件 / Get the apps**  
 [Navio Windows Beta 7](https://github.com/dex-ovo-studio/Navio/releases/tag/v1.0.0-beta.7) · [Mystery Windows 2.1.0](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0)
