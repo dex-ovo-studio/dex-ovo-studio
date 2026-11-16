@@ -1,4 +1,8 @@
-# D.E.X STUDIO
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/studio-header-light.svg">
+  <img src="assets/studio-header-light.svg" alt="D.E.X STUDIO · Independent software studio" width="960">
+</picture>
 
 为日常，构建更好的数字体验。  
 Thoughtful software for everyday life.
@@ -38,3 +42,5 @@ Find current availability, official downloads and guides in the [software hub](h
 
 产品问题请在对应仓库提交 [Issue](https://github.com/dex-ovo-studio?tab=repositories)。合作与一般咨询可通过[工作室反馈入口](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/issues)联系。涉及安全或账号信息时，勿在公开 Issue 中填写敏感资料；Navio 请先阅读[安全报告说明](https://github.com/dex-ovo-studio/Navio/blob/main/SECURITY.md)。  
 For product issues, use the relevant repository. For collaboration or general enquiries, use the [studio contact issue tracker](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/issues). Do not post sensitive information in public Issues; see [Navio security guidance](https://github.com/dex-ovo-studio/Navio/blob/main/SECURITY.md) for Navio reports.
+
+
