@@ -34,8 +34,8 @@ Beta 7 is published. Read the proxy-restoration advisory before downloading. RC4
 给日常，多一点期待。盲盒与抽奖桌面体验。<br>
 A little surprise, every day.<br>
 **公开版本 / Published release · 2.1.0**<br>
-安装包与校验文件由软件中心提供；以该发布页的说明和实际附件为准。<br>
-The software hub hosts the installer and checksum file. Check its release notes and assets.<br>
+安装包与校验文件由 Mystery 产品仓的发行页提供。以该发布页的说明和实际附件为准。<br>
+The Mystery release page provides the installer and checksum file. Check its release notes and assets.<br>
 [官网](https://mystery.mydex.top) · [项目介绍](https://github.com/dex-ovo-studio/Mystery) · [版本下载](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v2.1.0) · [使用指南](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md)
 
 ---
