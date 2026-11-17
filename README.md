@@ -11,8 +11,8 @@ Thoughtful software for everyday life.
 
 **[软件状态与下载 / Software hub →](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)** · [软件 / Products](#products) · [支持 / Support](#support)
 
-一个工作室，四种探索。各有专长，体验同样用心。<br>
-One studio. Four distinct products. Thoughtful experiences.
+专注创造，持续探索。<br>
+Building thoughtfully. Exploring continuously.
 
 ---
 
