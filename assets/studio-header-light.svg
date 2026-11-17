@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="188" viewBox="0 0 960 188" role="img" aria-labelledby="title">
-<title id="title">D.E.X STUDIO — Independent software studio</title>
+<title id="title">D.E.X Studio — Independent software studio</title>
 <defs>
   <linearGradient id="bg" x2="1" y2=".5"><stop stop-color="#F0F5F8"/><stop offset="1" stop-color="#DFEBF1"/></linearGradient>
   <clipPath id="round"><rect width="960" height="188" rx="16"/></clipPath>
@@ -10,9 +10,9 @@
   <path d="M595 142L705 52L796 114L910 36" fill="none" stroke="#187C99" stroke-opacity=".48" stroke-width="1.5"/>
   <circle cx="595" cy="142" r="4" fill="#187C99"/><circle cx="705" cy="52" r="4" fill="#187C99"/><circle cx="796" cy="114" r="4" fill="#187C99"/><circle cx="910" cy="36" r="4" fill="#187C99"/>
   <path d="M40 35H67" stroke="#D87532" stroke-width="3" stroke-linecap="round"/>
-  <text x="82" y="40" font-family="Arial,Segoe UI,sans-serif" font-size="12" font-weight="600" letter-spacing="2.2" fill="#49677D">INDEPENDENT SOFTWARE STUDIO</text>
-  <text x="40" y="114" font-family="Arial,Segoe UI,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8" fill="#142B3F">D.E.X STUDIO</text>
-  <text x="42" y="150" font-family="Arial,Segoe UI,sans-serif" font-size="14" letter-spacing=".7" fill="#4C6B7B">DESIGN  /  SOFTWARE  /  EVERYDAY EXPERIENCE</text>
+  <text x="82" y="40" font-family="Arial,Segoe UI,sans-serif" font-size="20" font-weight="600" letter-spacing="1" fill="#49677D">INDEPENDENT SOFTWARE STUDIO</text>
+  <text x="40" y="114" font-family="Arial,Segoe UI,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8" fill="#142B3F">D.E.X Studio</text>
+  <text x="42" y="150" font-family="Arial,Segoe UI,sans-serif" font-size="20" letter-spacing=".7" fill="#4C6B7B">DESIGN  /  SOFTWARE  /  EVERYDAY EXPERIENCE</text>
 </g>
 </svg>
 
