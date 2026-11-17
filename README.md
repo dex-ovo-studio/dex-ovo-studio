@@ -54,7 +54,6 @@ Exploring a clearer motorcycle dashboard experience.<br>
 **开发中 / In development · 暂无公开镜像 / No public image**<br>
 [项目介绍](https://github.com/dex-ovo-studio/Rovelio) · [开发进展](https://github.com/dex-ovo-studio/Rovelio/blob/main/STATUS.md)
 
-<sub>发行信息核对于 / Release information checked on 2026-11-17. Tune 与 Rovelio 暂沿用现有仓库入口 / Existing repository URLs are retained for Tune and Rovelio.</sub>
 
 ---
 
