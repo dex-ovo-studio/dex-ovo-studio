@@ -24,9 +24,9 @@ Building thoughtfully. Exploring continuously.
 让连接与日常管理更清晰。Windows 代理、规则与连接管理。<br>
 A clearer workspace for connections, profiles and rules.<br>
 **公开 Beta / Public beta · Windows x64**<br>
-已公开 Beta 7；下载前请阅读系统代理恢复的已知问题。RC4、RC5 与 1.0 Stable 尚未公开。<br>
-Beta 7 is published. Read the proxy-restoration advisory before downloading. RC4, RC5 and 1.0 Stable are not published.<br>
-[项目介绍](https://github.com/dex-ovo-studio/Navio) · [版本下载](https://github.com/dex-ovo-studio/Navio/releases) · [使用指南](https://github.com/dex-ovo-studio/Navio/blob/main/docs/guide.md)
+当前公开测试版为 Beta 7。下载前请阅读 Windows 系统代理恢复提示。<br>
+Beta 7 is the current public beta. Read the Windows proxy recovery note before downloading.<br>
+[项目介绍](https://github.com/dex-ovo-studio/Navio) · [下载 Beta 7 / Download Beta 7](https://github.com/dex-ovo-studio/Navio/releases/tag/v1.0.0-beta.7) · [安装与校验 / Install and verify](https://github.com/dex-ovo-studio/Navio/blob/main/docs/install.md) · [代理恢复 / Proxy recovery](https://github.com/dex-ovo-studio/Navio/blob/main/docs/faq.md)
 
 ---
 
