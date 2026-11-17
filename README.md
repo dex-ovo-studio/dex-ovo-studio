@@ -1,1 +1,74 @@
-<p align="center"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-hero.svg" alt="D.E.X Studio — 为日常，构建更好的数字体验 / Thoughtful software. Built around everyday life." width="100%"><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-entry.svg" alt="从这里开始 · 软件状态与下载 / Start here — Software status and downloads" width="100%"></a><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-hero-end.svg" alt="Designed with intent. Software × Design × Experience." width="100%"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-heading.svg" alt="软件作品 / The software collection" width="100%"><a href="https://github.com/dex-ovo-studio/Navio"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-navio.svg" alt="Navio — Windows 代理管理 / Windows proxy management" width="50%"></a><a href="https://github.com/dex-ovo-studio/Mystery"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-mystery.svg" alt="Mystery — 盲盒与抽奖 / Mystery box and lucky draw" width="50%"></a><a href="https://github.com/dex-ovo-studio/DEX-TUNE"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-tune.svg" alt="Tune — 便携 Windows 调试工作台 / Portable Windows tuning workspace" width="50%"></a><a href="https://github.com/dex-ovo-studio/DEX-Rider"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-rovelio.svg" alt="Rovelio · 驭途 — 摩托车机 / Motorcycle dashboard" width="50%"></a><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-principles.svg" alt="设计理念 / The way we build — 清晰 Clarity · 实用 Purpose · 个性 Character" width="100%"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/canvas-v3-footer.svg" alt="D.E.X Studio — 用清晰的设计，做好日常软件。" width="100%"></p>
+<picture>
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/studio-header-dark-mobile.svg">
+  <source media="(max-width: 768px)" srcset="assets/studio-header-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/studio-header-light.svg">
+  <img src="assets/studio-header-light.svg" alt="D.E.X Studio · Independent software studio" width="100%">
+</picture>
+
+为日常，构建更好的数字体验。<br>
+Thoughtful software for everyday life.
+
+**[软件状态与下载 / Software hub →](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)** · [软件 / Products](#products) · [支持 / Support](#support)
+
+一个工作室，四种探索。各有专长，体验同样用心。<br>
+One studio. Four distinct products. Thoughtful experiences.
+
+---
+
+<a id="products"></a>
+
+## 软件 / Software
+
+### <img src="assets/product-navio.svg" alt="" width="32" height="32"> Navio
+让连接与日常管理更清晰。Windows 代理、规则与连接管理。<br>
+A clearer workspace for connections, profiles and rules.<br>
+**公开 Beta / Public beta · Windows x64**<br>
+已公开 Beta 7；下载前请阅读系统代理恢复的已知问题。RC4、RC5 与 1.0 Stable 尚未公开。<br>
+Beta 7 is published. Read the proxy-restoration advisory before downloading. RC4, RC5 and 1.0 Stable are not published.<br>
+[项目介绍](https://github.com/dex-ovo-studio/Navio) · [版本下载](https://github.com/dex-ovo-studio/Navio/releases) · [使用指南](https://github.com/dex-ovo-studio/Navio/blob/main/docs/guide.md)
+
+---
+
+### <img src="assets/product-mystery.svg" alt="" width="32" height="32"> Mystery
+给日常，多一点期待。盲盒与抽奖桌面体验。<br>
+A little surprise, every day.<br>
+**公开版本 / Published release · 2.1.0**<br>
+安装包与校验文件由软件中心提供；以该发布页的说明和实际附件为准。<br>
+The software hub hosts the installer and checksum file. Check its release notes and assets.<br>
+[官网](https://mystery.mydex.top) · [项目介绍](https://github.com/dex-ovo-studio/Mystery) · [版本下载](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0) · [使用指南](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md)
+
+---
+
+### <img src="assets/product-tune.svg" alt="" width="32" height="32"> Tune
+掌控系统，随身而行。便携式 Windows 调试工作台。<br>
+A portable workspace for Windows tuning.<br>
+**开发中 / In development · 暂无公开安装包 / No public installer**<br>
+[项目介绍](https://github.com/dex-ovo-studio/DEX-TUNE) · [开发进展](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md)
+
+---
+
+### <img src="assets/product-rovelio.svg" alt="" width="32" height="32"> Rovelio · 驭途
+为每段骑行，探索更清晰的交互。摩托车机与语音交互实验。<br>
+Exploring a clearer motorcycle dashboard experience.<br>
+**开发中 / In development · 暂无公开镜像 / No public image**<br>
+[项目介绍](https://github.com/dex-ovo-studio/DEX-Rider) · [开发进展](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md)
+
+<sub>发行信息核对于 / Release information checked on 2026-11-17. Tune 与 Rovelio 暂沿用现有仓库入口 / Existing repository URLs are retained for Tune and Rovelio.</sub>
+
+---
+
+<a id="support"></a>
+
+## 下载与支持 / Downloads & support
+
+软件的可用版本、开发状态与官方入口统一收录于[软件状态与下载](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)。<br>
+Find current availability, official downloads and guides in the [software hub](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status).
+
+产品反馈 / Product issues：[Navio](https://github.com/dex-ovo-studio/Navio/issues) · [Mystery](https://github.com/dex-ovo-studio/Mystery/issues) · [Tune](https://github.com/dex-ovo-studio/DEX-TUNE/issues) · [Rovelio](https://github.com/dex-ovo-studio/DEX-Rider/issues)。
+
+合作与一般咨询可通过[工作室反馈入口](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/issues)联系。涉及安全或账号信息时，勿在公开 Issue 中填写敏感资料；Navio 请先阅读[安全报告说明](https://github.com/dex-ovo-studio/Navio/blob/main/SECURITY.md)。<br>
+For collaboration or general enquiries, use the [studio contact issue tracker](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/issues). Do not post sensitive information in public Issues; see [Navio security guidance](https://github.com/dex-ovo-studio/Navio/blob/main/SECURITY.md) for Navio reports.
+
+各产品的许可证、源码与使用条件以对应仓库和发布页为准。图标与页头是品牌素材，非应用运行截图。<br>
+Licenses, source availability and terms are specific to each repository and release. The artwork is branding, not application screenshots.
