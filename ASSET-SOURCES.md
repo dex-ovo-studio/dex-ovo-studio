@@ -15,7 +15,7 @@ These assets are branding, not screenshots of running products. No private proje
 - Tune: [current status](https://github.com/dex-ovo-studio/Tune/blob/main/STATUS.md) says development prototype and no public installer. Its release collection was empty.
 - Rovelio: [current status](https://github.com/dex-ovo-studio/Rovelio/blob/main/STATUS.md) says development prototype and no public image. Its release collection was empty.
 
-Tune and Rovelio use their confirmed product names while links retain the existing repository names. Update those URLs only after the repository rename and compatibility checks are complete. Do not infer completed feature tests from a product's description.
+Tune and Rovelio use their confirmed product names and canonical repository URLs. Do not infer completed feature tests from a product's description.
 
 ## Validation and later updates
 
