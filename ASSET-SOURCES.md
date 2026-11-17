@@ -12,8 +12,8 @@ These assets are branding, not screenshots of running products. No private proje
 
 - Navio: [published Beta 7](https://github.com/dex-ovo-studio/Navio/releases/tag/v1.0.0-beta.7); the tag and title identify a beta even though GitHub's prerelease flag is false. No RC4, RC5 or 1.0 Stable release was listed. Keep the proxy-restoration advisory. [Release list](https://github.com/dex-ovo-studio/Navio/releases).
 - Mystery: [2.1.0 release in the software hub](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0), with an installer and SHA256SUMS.txt. Its historical asset name is preserved. This metadata check is not a fresh binary test or checksum certification.
-- Tune: [current status](https://github.com/dex-ovo-studio/DEX-TUNE/blob/main/STATUS.md) says development prototype and no public installer. Its release collection was empty.
-- Rovelio: [current status](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md) says development prototype and no public image. Its release collection was empty.
+- Tune: [current status](https://github.com/dex-ovo-studio/Tune/blob/main/STATUS.md) says development prototype and no public installer. Its release collection was empty.
+- Rovelio: [current status](https://github.com/dex-ovo-studio/Rovelio/blob/main/STATUS.md) says development prototype and no public image. Its release collection was empty.
 
 Tune and Rovelio use their confirmed product names while links retain the existing repository names. Update those URLs only after the repository rename and compatibility checks are complete. Do not infer completed feature tests from a product's description.
 

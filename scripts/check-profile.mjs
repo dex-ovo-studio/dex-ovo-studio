@@ -11,12 +11,13 @@ function check(label, action) {
   checks.push(label);
 }
 
-check('Four product headings and existing repository destinations', () => {
-  for (const [name, repo] of [['Navio', 'Navio'], ['Mystery', 'Mystery'], ['Tune', 'DEX-TUNE'], ['Rovelio', 'DEX-Rider']]) {
+check('Four product headings and canonical repository destinations', () => {
+  for (const [name, repo] of [['Navio', 'Navio'], ['Mystery', 'Mystery'], ['Tune', 'Tune'], ['Rovelio', 'Rovelio']]) {
     assert.match(readme, new RegExp(`### <img[^>]+> ${name}`));
     assert.ok(readme.includes(`](https://github.com/dex-ovo-studio/${repo})`));
     assert.ok(readme.includes(`](https://github.com/dex-ovo-studio/${repo}/issues)`));
   }
+  assert.doesNotMatch(readme, /dex-ovo-studio\/(?:DEX-TUNE|DEX-Rider)/);
 });
 check('Local anchors resolve', () => {
   for (const [, anchor] of readme.matchAll(/\]\(#([\w-]+)\)/g)) {
