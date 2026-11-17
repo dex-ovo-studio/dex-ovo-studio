@@ -36,7 +36,7 @@ A little surprise, every day.<br>
 **公开版本 / Published release · 2.1.0**<br>
 安装包与校验文件由软件中心提供；以该发布页的说明和实际附件为准。<br>
 The software hub hosts the installer and checksum file. Check its release notes and assets.<br>
-[官网](https://mystery.mydex.top) · [项目介绍](https://github.com/dex-ovo-studio/Mystery) · [版本下载](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status/releases/tag/mystery-v2.1.0) · [使用指南](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md)
+[官网](https://mystery.mydex.top) · [项目介绍](https://github.com/dex-ovo-studio/Mystery) · [版本下载](https://github.com/dex-ovo-studio/Mystery/releases/tag/mystery-v2.1.0) · [使用指南](https://github.com/dex-ovo-studio/Mystery/blob/main/docs/guide.md)
 
 ---
 
